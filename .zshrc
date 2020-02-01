@@ -1,0 +1,1 @@
+/Users/rizkyarlin/.zshrc
